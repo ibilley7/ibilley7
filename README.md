@@ -1,5 +1,5 @@
 ## 💻 About Me!
-Hi, I’m Imirie. I'm a student at University of Maryland studying Computer Science. Planning to concentrate in the Machine Learning Computer Science track. 
+Hi, I’m Imirie. I'm a student at University of Maryland studying Computer Science. Intention to concentrate in the Machine Learning Computer Science track. 
 
 ## 📖 My Skills
 * Programming Languages: Java, C, Python, HTML, CSS, OCaml, Ruby, Rust, Matlab
