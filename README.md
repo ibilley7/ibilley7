@@ -2,9 +2,8 @@
 Hi, I’m Imirie. I'm a student at University of Maryland studying Computer Science. Planning to concentrate in the Machine Learning Computer Science track. 
 
 ## 📖 My Skills
-* Programming Languages: Java, C, Python, HTML, CSS, OCaml, Ruby, Rust 
+* Programming Languages: Java, C, Python, HTML, CSS, OCaml, Ruby, Rust, Matlab
 * Operating Systems: Windows 10/11, UNIX/LINUX
-* Other Applications: Matlab
 
 ## Disclaimer and Contact Info
 Many of my repositories are PRIVATE as they contain programs I worked on for classes. If you would like to see these projects, please contact me at my work email:
