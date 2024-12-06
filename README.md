@@ -2,7 +2,8 @@
 Hi, I’m Imirie. I'm a student at University of Maryland studying Computer Science.
 
 ## 📖 My Skills
-* Programming Languages: Java, C, Python, HTML, CSS, OCaml, Ruby, Rust, Matlab
+* Programming Languages: Python, JavaScript, Java, C programming, HTML, CSS, OCaml, Rust, Matlab, R programming
+* Databases: MongoDB, Firebase
 * Operating Systems: Windows 10/11, UNIX/LINUX
 
 ## Disclaimer and Contact Info
