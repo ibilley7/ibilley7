@@ -1,5 +1,5 @@
 ## 💻 About Me!
-Hi, I’m Imirie. I'm a student at University of Maryland studying Computer Science.
+Hi, I’m Imirie. I'm a third-year student at University of Maryland studying Computer Science.
 
 ## 📖 My Skills
 * Programming Languages: Python, JavaScript, Java, C programming, HTML, CSS, OCaml, Rust, Matlab, R programming
@@ -15,6 +15,27 @@ I have private repositories of all my work in these classes that you can request
 * CMSC216 - Introduction to Computer Systems
 * CMSC330 - Organization of Programming Languages
 * CMSC335 - Web Application Development with JavaScript
+
+
+## Skills
+
+### Languages
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![<java>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+
+### Front-end Development
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Cross Platform Development
+![electron](https://img.shields.io/badge/Electron-2C2E3B?style=for-the-badge&logo=electron&logoColor=white)
+
+### Backend as a Service (BaaS)
+![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
+![mongodb](https://img.shields.io/badge/Firebase-001e29?style=for-the-badge&logo=MongoDB&logoColor=green)
+
 <!---
 ibilley7/ibilley7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
