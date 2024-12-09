@@ -41,7 +41,7 @@ I have private repositories of all my work in these classes that you can request
 * CMSC335 - Web Application Development with JavaScript
 
 ## 🎸Hobbies
-I am just as committed to my hobbies as I am to my career! I love to athletic and workout. In fact, I am an executive member and player for my club rugby team🏉! My other hobbies include reading, playing the guitar, and playing video games!
+I am just as committed to my hobbies as I am to my career! I love to athletic and workout. In fact, I am an executive member and player for my club rugby team🏉! My other hobbies include reading📙, playing the guitar🎸, and playing video games🎮!
 
 
 
