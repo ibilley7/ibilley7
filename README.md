@@ -21,7 +21,8 @@ I have private repositories of all my work in these classes that you can request
 
 ### Languages
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![<java>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![<java>](https://img.shields.io/badge/Java-f8f8ff?style=for-the-badge&logo=Java&logoColor=orange)
 ![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 
 ### Front-end Development
@@ -34,7 +35,7 @@ I have private repositories of all my work in these classes that you can request
 
 ### Backend as a Service (BaaS)
 ![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
-![mongodb](https://img.shields.io/badge/Firebase-001e29?style=for-the-badge&logo=MongoDB&logoColor=green)
+![mongodb](https://img.shields.io/badge/MongoDB-001e29?style=for-the-badge&logo=MongoDB&logoColor=green)
 
 <!---
 ibilley7/ibilley7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
