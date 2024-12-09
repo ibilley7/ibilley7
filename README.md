@@ -1,5 +1,5 @@
-## 💻 About Me!
-Hi, I’m Imirie. I'm a third-year student at University of Maryland studying Computer Science.
+## 🪲 About Me!
+Hi, I’m Imirie! I'm a third-year student at University of Maryland,  studying Computer Science.
 
 ## 📖 Skills
 
