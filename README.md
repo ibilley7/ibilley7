@@ -43,7 +43,7 @@ I have private repositories of all my work in these classes that you can request
 ## 🎸Hobbies
 I am just as committed to my hobbies as I am to my career! I love to athletic and workout. In fact, I am an executive member and player for my club rugby team🏉! My other hobbies include reading📙, playing the guitar🎸, and playing video games🎮!
 
-## Future Interest/ Project Ideas
+## 📀Future Projects
 I have a lot of ideas for future projects to create which encompass a wide range of skills, not only front-end developing. Here are some of them:
 * Love Letter App - A full-stack application for creating a sending personalized digital love letters as an alternative to mailing love letters. The app aims to give a homemade, personalized feel to digital messages. I plan to develop this using JavaScript, Electron.js, and a database (either MongoDB or Firebase). 
 * Conway's Game of Life Simulation - The name is exactly what it is. I am fascinated by Conway's Game of Life, and want to create a simulation to replicate it. 
