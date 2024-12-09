@@ -51,6 +51,7 @@ I have a lot of ideas for future projects to create which encompass a wide range
 
 ## Skills I want to work on:
 * Azure, PowerApps, PowerAutomate, Web Services, Graph API, REST API
+* Agile
 
 
 
