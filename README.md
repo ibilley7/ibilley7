@@ -1,5 +1,5 @@
 ## 🪲 About Me!
-Hi, I’m Imirie! I'm a third-year Computer Science student at the University of Maryland, one of the top-ranked CS programs in the US. I have a passion for front-end development, I am open to pursuing any field to acquire a a more well-rounded professional skill set. Additionally to Computer Science, I graduated from the Science and Global Change Scholars program, and am minoring in Sustainability Studies.
+Hi, I’m Imirie! I'm a third-year Computer Science student at the University of Maryland, one of the top-ranked CS programs in the US. I have a passion for front-end development, I am open to pursuing any field to acquire a a more well-rounded professional skill set. Additionally to Computer Science, I'm minoring in Sustainability Studies, and I graduated from the Science and Global Change Scholars program.
 
 ## 💡 Skills
 
