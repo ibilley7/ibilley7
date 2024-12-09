@@ -1,23 +1,7 @@
 ## 💻 About Me!
 Hi, I’m Imirie. I'm a third-year student at University of Maryland studying Computer Science.
 
-## 📖 My Skills
-* Programming Languages: Python, JavaScript, Java, C programming, HTML, CSS, OCaml, Rust, Matlab, R programming
-* Databases: MongoDB, Firebase
-* Operating Systems: Windows 10/11, UNIX/LINUX
-
-## Disclaimer and Contact Info
-Many of my repositories are private as they contain programs I've worked on for classes. If you would like to see these projects, please contact me at my work email: imirieb@gmail.com.
-
-I have private repositories of all my work in these classes that you can request:
-* CMSC131 - Object-Oriented Programming I
-* CMSC132 - Object-Oriented Programming II
-* CMSC216 - Introduction to Computer Systems
-* CMSC330 - Organization of Programming Languages
-* CMSC335 - Web Application Development with JavaScript
-
-
-## Skills
+## 📖 Skills
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -35,13 +19,27 @@ I have private repositories of all my work in these classes that you can request
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-### Frameworks
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 
 ### Databases
 ![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
 ![mongodb](https://img.shields.io/badge/MongoDB-001e29?style=for-the-badge&logo=MongoDB&logoColor=green)
+
+## Disclaimer and Contact Info
+Many of my repositories are private as they contain programs I've worked on for classes. If you would like to see these projects, please contact me at my work email: imirieb@gmail.com.
+
+I have private repositories of all my work in these classes that you can request:
+* CMSC131 - Object-Oriented Programming I
+* CMSC132 - Object-Oriented Programming II
+* CMSC216 - Introduction to Computer Systems
+* CMSC330 - Organization of Programming Languages
+* CMSC335 - Web Application Development with JavaScript
+
+## Other Skills
+### Operating Systems
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### IDE's
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -49,10 +47,8 @@ I have private repositories of all my work in these classes that you can request
 ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
 
-### Operating Systems
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
 
 <!---
 ibilley7/ibilley7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
