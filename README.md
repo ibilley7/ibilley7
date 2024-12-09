@@ -25,7 +25,7 @@ Hi, I’m Imirie! I'm a third-year Computer Science student at the University of
 ![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
 ![mongodb](https://img.shields.io/badge/MongoDB-001e29?style=for-the-badge&logo=MongoDB&logoColor=green)
 
-## Disclaimer and Contact Info
+## 🛑 Disclaimer and Contact Info
 Many of my repositories are private as they contain programs I've worked on for classes. If you would like to see these projects, please contact me at my work email: imirieb@gmail.com.
 
 I have private repositories of all my work in these classes that you can request:
