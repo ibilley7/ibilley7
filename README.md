@@ -25,6 +25,11 @@ Hi, I’m Imirie! I'm a third-year Computer Science student at the University of
 ![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
 ![mongodb](https://img.shields.io/badge/MongoDB-001e29?style=for-the-badge&logo=MongoDB&logoColor=green)
 
+### Operating Systems
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 ## 🛑 Disclaimer and Contact Info
 Many of my repositories are private as they contain programs I've worked on for classes. If you would like to see these projects, please contact me at my work email: imirieb@gmail.com.
 
@@ -35,17 +40,10 @@ I have private repositories of all my work in these classes that you can request
 * CMSC330 - Organization of Programming Languages
 * CMSC335 - Web Application Development with JavaScript
 
-## Other Skills
-### Operating Systems
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+## 🎸Hobbies
+I am just as committed to my hobbies as I am to my career! I love to athletic and workout. In fact, I am an executive member and player for my club rugby team🏉! My other hobbies include reading, playing the guitar, and playing video games!
 
-### IDE's
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
+
 
 
 
