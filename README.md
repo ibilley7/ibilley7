@@ -1,5 +1,5 @@
 ## 🪲 About Me!
-Hi, I’m Imirie! I'm a third-year Computer Science student at the University of Maryland, one of the top-ranked CS programs in the US. I have a passion for front-end development, but would like experience in any field to develop a well-rounded programming background. 
+Hi, I’m Imirie! I'm a third-year Computer Science student at the University of Maryland, one of the top-ranked CS programs in the US. I have a passion for front-end development, I am open to pursuing any field to acquire a a more well-rounded professional skill set.
 
 ## 📖 Skills
 
